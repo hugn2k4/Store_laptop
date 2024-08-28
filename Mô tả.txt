@@ -1,0 +1,29 @@
+Đặc tả bài toán: Web bán Laptop
+1.Giới thiệu
+Mục tiêu:Website của chúng em sẽ cung cấp một nền tảng trực tuyến hiện đại, phục vụ hai nhóm đối tượng chính là chủ cửa hàng và các khách hàng.
+2.Mô tả bài toán
+Tổng quan:Trong thời đại số hoá hiện nay, chúng ta thường xuyên làm việc và sử dụng các thiết bị điện tử, cụ thể có thể nói đến như điện thoại, máy tính, laptop. Với công nghệ phát triển, ngày nay các mẫu mã ngày càng nhiều với những giá thành và thông số khác nhau, phù hợp cho từng mục đích. Vậy nên chúng em chọn đề tài web bán laptop giúp người tiêu dùng có thể tham khảo, so sánh các sản phẩm trước khi đến cửa hàng cũng như đặt mua thuận tiện ngay trên trang web.
+Chức năng:
+Người bán:
+Quản lý sản phẩm: Thêm các sản phẩm mới, xoá sản phẩm cũ cũng như điều chỉnh những sản phẩm như thông số, giá bán, số lượng trên trang, quản lý thông tin khách hàng.
+Thống kê các sản phẩm đã được bán.
+Khách hàng:
+Xem chi tiết thông tin sản phẩm: khách hàng có thể xem chi tiết sản phẩm.
+Lịch sử mua hàng: khách hàng có thể xem lịch sử mua hàng.
+Đăng ký tài khoản: khách hàng chưa có tài khoản mua hàng thì phải đăng ký để có thể mua hàng
+Đăng nhập tài khoản: đăng nhập tài khoản để có thể mua hàng và để lưu lại lịch sử mua hàng cũng như để thuận tiện trao đổi với nhân viên hỗ trợ cũng như thanh toán.
+Quên mật khẩu: khách hàng có thể lấy lại mật khẩu nếu quên mật khẩu.
+Tìm kiếm sản phẩm: khách hàng có thể tìm kiếm sản phẩm cần tìm.
+Thêm vào giỏ hàng: khách hàng có thể thêm sản phẩm vào giỏ hàng.
+Chức năng thanh toán:
+Chức năng yêu thích: khách hàng có thể lưu sản phẩm của mình để mua sản phẩm.
+Đánh giá sản phẩm: khách hàng có thể đánh giá sản phẩm sau khi mua để lại cảm nhận của mình về sản phẩm,cũng như cho những người mua tiếp theo có thể tham khảo.
+Phân loại sản phẩm: những sản phẩm điện tử bao gồm như laptop mới, laptop cũ giá rẻ, linh kiện laptop, … Các sản phẩm sẽ được phân loại vào các danh mục rõ ràng, mỗi sản phẩm sẽ có tên, hình ảnh, chi tiết, thông số kỹ thuật, giá bán và số lượng hàng còn lại.
+Gợi ý sản phẩm: 
+họ sẽ là những người truy cập vào trang web để xem thông số sản phẩm cũng như có thể đặt mua bằng cách thêm vào giỏ hàng và thanh toán bên cạnh đó họ cũng có thể lưu lại những sản phẩm đang chú ý bằng cách thêm những sản phẩm đó vào danh mục yêu thích rất tiện lợi. Sau mỗi lần mua hàng, khách hàng có thể đánh giá sản phẩm để có thể để lại cảm nhận của mình khi nhận hàng, cũng như cho những người mua tiếp theo có thể tham khảo.
+
+
+
+Một số tính năng khá hay là khách hàng có thể ghé qua trang web xem thông tin sản phẩm mà không cần tạo bất kì tài khoản nào, chỉ khi khách hàng muốn đặt hàng mới cần tạo tài khoản để thuận tiện trao đổi với nhân viên hỗ trợ cũng như thanh toán. Khi đặt hàng, đơn hàng sẽ có 1 mã đơn duy nhất, ngày mua, thông tin liên lạc của khách hàng, địa chỉ giao hàng, danh sách sản phẩm, số lượng, thành tiền và hình thức thanh toán, khi hoàn thành bạn sẽ nhận được 1 hoá đơn điện tử để xác nhận thông tin, nếu có sai sót bạn có thể huỷ đơn và hoàn tiền nếu như bạn đã thanh toán trước đó. Và về hình thức thanh toán, khách hàng cũng có nhiều lựa chọn phù hợp với bản thân để có thể thanh toán 1 cách dễ dàng và linh hoạt nhất. 
+Web sẽ luôn hoạt động tất cả các giờ trong ngày, và sẽ có nhiều chính sách ưu đãi cho những khách hàng quen thuộc, web sẽ hoạt động mượt mà để đem lại trải nghiệm tốt nhất cho khách hàng.
+
